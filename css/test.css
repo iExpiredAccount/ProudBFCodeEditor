@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    font-size: 30px;
+    color: #4D1ACC;
+}
+
+h2{
+    color:#2F40E3; 
+    font-size: 20px;
+}
+.big{
+    font-size: 50px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: aquamarine;
+}
+h1 span{
+    color: violet
+}

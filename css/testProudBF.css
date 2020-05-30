@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+header h1{
+    color: rgb(40, 48, 73);
+}
+
+header img{
+    border-radius: 700px;
+    width: 300px;
+    border: 7.5px solid black; 
+    margin: 20px;
+}
+
+main img{
+    max-width: 300px;
+    align-self: center;
+    margin: 10px
+}
+
+main{
+    margin: 0 auto;
+    padding: 0px 150px 0px 150px; 
+}
+
+a{
+    color: #FF33B2
+}
+
+a:hover{
+    color: #B71278
+}
+
+footer{
+    text-align: center;
+    padding: 2px; 
+    background-color:#FAD1EB; 
+}
+
+p.caption{
+    font-style: italic;
+    color: rgb(59, 59, 59);
+    margin-top: 0px;
+}
